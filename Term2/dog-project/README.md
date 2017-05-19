@@ -36,7 +36,7 @@
 
 ## Issues
 1. _Jupyter Notebook Freeze while training_. See the solution I posted on the Udacity Forum [here](https://discussions.udacity.com/t/jupyter-notebook-freeze-while-training-solution/247335 "Solution")
-2. _I installed tensorflow-gpu but I cannot import tensorflow_. You probably need to install [Microsoft Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=53840 "Microsoft Visual C++ 2015). Also you need to be sure I've installed `cuDNN 5.1`. As of now, TensorFlow **still doesn't support cuDNN 6**
+2. _I installed tensorflow-gpu but I cannot import tensorflow_. You probably need to install [Microsoft Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=53840 "Microsoft Visual C++ 2015"). Also you need to be sure I've installed `cuDNN 5.1`. As of now, TensorFlow **still doesn't support cuDNN 6**
 3. _Some of the codes don't work_. It might be because you didn't install the datas, or you need to create the datas. For example for the **Optional part** of the assignment, if you want to run my code you need to:
     - download the [caltech256 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech256/256_ObjectCategories.tar)         and to extract the archive to `location path/to/dog-project`.
     - rename the extracted folder to `caltech256`.

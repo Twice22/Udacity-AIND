@@ -1,0 +1,13 @@
+.DS_Store
+Term2/aind2-cnn
+Term2/aind2-dl
+Term2/aind2-rnn
+Term2/dog-project/dogImages/
+Term2/dog-project/lfw/
+Term2/dog-project/caltech256/
+Term2/dog-project/saved_models/weights.best.from_scratch.hdf5
+Term2/dog-project/saved_models/weights.best.vgg16.hdf5
+Term2/dog-project/saved_models/weights.best.restnet50_faces.hdf5
+Term2/dog-project/.ipynb_checkpoints/
+Term2/dog-project/bottleneck_features/DogVGG16Data.npz
+Term2/dog-project/bottleneck_features/DogResnet50Data.npz
